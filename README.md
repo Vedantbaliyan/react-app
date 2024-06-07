@@ -1,0 +1,1 @@
+Textutils is a text analyzer and manipulator ,it helps to manipulate the text in the way you want like changing the text from lower case to upper case and vice versa , clearing the text , speaking the text aloud 
